@@ -1,0 +1,6 @@
+{
+  "name": "PyMaster UZ - Python Akademiyasi va Amaliy Loyihalar",
+  "description": "Python dasturlash tilini noldan boshlab o'rganish uchun interaktiv kurslar, jonli kod muharriri, amaliy loyihalar va sun'iy intellekt ustoz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
